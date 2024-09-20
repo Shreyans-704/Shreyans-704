@@ -1,5 +1,9 @@
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Example GIF">
+
 # 💫 About Me:
 Hi, I’m Shreyans, a BTech IT student at NIT Jalandhar, passionate about coding and exploring AI, Ethical Hacking, and Cybersecurity. <br>I love experimenting with new languages and tech tools to push the boundaries of what’s possible.<br> I’m eager to contribute to AI, ethical hacking, and cybersecurity projects, and I’m committed to using technology to create positive change.
+
+
 
 
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" alt="Animated man coding at a computer">
