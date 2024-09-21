@@ -9,9 +9,9 @@ I enjoy solving coding challenges, improving my problem-solving skills, and cont
 
 Here’s what I’m currently working on:
 
-Enhancing my skills in React and JavaScript
-Learning the MERN stack for full-stack development
-Building projects that integrate AI and Cybersecurity concepts
+Enhancing my skills in React and JavaScript<br>
+Learning the MERN stack for full-stack development <br>
+Building projects that integrate AI and Cybersecurity concepts <br>
 Let’s connect and build something amazing together!
 
 
