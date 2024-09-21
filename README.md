@@ -1,8 +1,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Example GIF">
 
 # 💫 About Me:
-Hi, I’m Shreyans, a BTech IT student at NIT Jalandhar, passionate about coding and exploring AI, Ethical Hacking, and Cybersecurity. <br>I love experimenting with new languages and tech tools to push the boundaries of what’s possible.<br> I’m eager to contribute to AI, ethical hacking, and cybersecurity projects, and I’m committed to using technology to create positive change.
+Hi, I'm Shreyans Jaiswal 👋
+I'm a passionate Front End Developer with a strong foundation in HTML, CSS, JavaScript, and experience working with React.js and Tailwind CSS. Currently pursuing a BTech in Information Technology, I'm always eager to learn and explore new technologies.
 
+I enjoy solving coding challenges, improving my problem-solving skills, and contributing to exciting projects. I’m also exploring Artificial Intelligence, Cybersecurity, and Ethical Hacking while diving deeper into the MERN stack to become a full-stack developer. I believe in writing clean, simple, and efficient code.
+
+Here’s what I’m currently working on:
+
+Enhancing my skills in React and JavaScript
+Learning the MERN stack for full-stack development
+Building projects that integrate AI and Cybersecurity concepts
+Let’s connect and build something amazing together!
 
 
 
