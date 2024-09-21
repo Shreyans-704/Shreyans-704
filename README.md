@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Example GIF">
 
 # 💫 About Me:
-Hi, I'm Shreyans Jaiswal 👋
+<b>Hi, I'm Shreyans Jaiswal 👋<b>
+<br>
 I'm a passionate Front End Developer with a strong foundation in HTML, CSS, JavaScript, and experience working with React.js and Tailwind CSS. Currently pursuing a BTech in Information Technology, I'm always eager to learn and explore new technologies.
 
 I enjoy solving coding challenges, improving my problem-solving skills, and contributing to exciting projects. I’m also exploring Artificial Intelligence, Cybersecurity, and Ethical Hacking while diving deeper into the MERN stack to become a full-stack developer. I believe in writing clean, simple, and efficient code.
