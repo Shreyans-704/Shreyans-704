@@ -3,7 +3,10 @@
 # 💫 About Me:
 <b>Hi, I'm Shreyans Jaiswal 👋<b>
 <br>
-I'm a passionate Front End Developer with a strong foundation in HTML, CSS, JavaScript, and experience working with React.js and Tailwind CSS. Currently pursuing a BTech in Information Technology, I'm always eager to learn and explore new technologies.
+I'm a Front End Developer with experience working with React.js and Tailwind CSS. Currently pursuing a BTech in Information Technology at NIT Jalandhar, I am shifting my career and have a keen interest in Cloud Computing and DevOps, aiming for AWS Cloud Services.
+
+I have successfully completed the 'GitLab CI Fundamentals' course from GitLab University and the 'Docker Essentials' course on Udemy. I am eager to apply my theoretical knowledge to practical projects and embrace challenges in the evolving tech landscape.
+
 
 I enjoy solving coding challenges, improving my problem-solving skills, and contributing to exciting projects. I’m also exploring Artificial Intelligence, Cybersecurity, and Ethical Hacking while diving deeper into the MERN stack to become a full-stack developer. I believe in writing clean, simple, and efficient code.
 
