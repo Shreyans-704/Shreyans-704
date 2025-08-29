@@ -86,6 +86,8 @@ My goal is to leverage cloud technologies like AWS and containerization tools li
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shreyansj_it_23)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-FF6D00?logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/GoDhAcKeR)
 [![Google Cloud Profile](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/590d51e9-ac1d-43eb-8099-d97fbfb9e12f)
+[![LearnWeb3 Profile](https://img.shields.io/badge/LearnWeb3-Profile-6C47FF?logo=ethereum&logoColor=white)](https://learnweb3.io/u/CBDC_Builder/)
+
 
 </div>
 
