@@ -9,8 +9,8 @@ I'm a Pre-final year Information Technology student at **NIT Jalandhar** with a 
 My goal is to leverage cloud technologies like AWS and containerization tools like Docker and Kubernetes to design, build, and maintain efficient, automated infrastructure. I believe in writing clean code and am dedicated to continuous learning and solving complex problems.
 
 - 🎓 Pursuing B.Tech in Information Technology @ **NIT Jalandhar**
-- ☁️ Actively learning **AWS**, **Docker**, and **Kubernetes** to build a career in Cloud & DevOps
-- 💡 Exploring **AI/ML**, **Cybersecurity**, and the **MERN Stack**
+- ☁️ Actively learning **AWS** to build a career in Cloud & DevOps
+- 💡 Exploring **WEB - 3** and the **MERN Stack**
 - 🏆 Certified in **GitLab CI Fundamentals** & **Docker Essentials**
 
 <br>
