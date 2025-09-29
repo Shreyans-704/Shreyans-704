@@ -4,7 +4,7 @@
 
 # Hi, I'm Shreyans Jaiswal 👋
 
-I'm a Pre-final year Information Technology student at **NIT Jalandhar** with a passion for building robust and scalable systems. While I have a background in web development with **React.js** and **Tailwind CSS**, I am now pivoting my career towards **Cloud Computing and DevOps**.
+I'm a Pre-final year Information Technology student at **NIT Jalandhar** with a passion for building robust and scalable systems. While I am now pivoting my career towards **Cloud Computing and DevOps**.
 
 My goal is to leverage cloud technologies like AWS and containerization tools like Docker and Kubernetes to design, build, and maintain efficient, automated infrastructure. I believe in writing clean code and am dedicated to continuous learning and solving complex problems.
 
