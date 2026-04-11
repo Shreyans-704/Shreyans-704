@@ -8,12 +8,13 @@ I'm a Pre-final year IT student at **NIT Jalandhar** with a passion for building
 
 My goal is to design, build, and maintain efficient, automated infrastructure while continuously learning and solving real-world problems. I believe in clean code, practical engineering, and smart automation. I am actively looking for tech internships for the year 2026.
 
+<br>
 
 - 🎓 B.Tech IT @ NIT Jalandhar (2027)
-🚀 Full-Stack & AI Developer (MERN, FastAPI, RAG, real-time systems)
-🧠 Built AI SaaS platforms & scalable backend systems with <50ms latency apps
-☁️ Cloud & DevOps: AWS, Docker, CI/CD, distributed systems
-🏆 Certified in GitLab CI, Docker & Google Cloud (GenAI + Cloud APIs)
+- 🚀 Full-Stack & AI Developer (MERN, FastAPI, RAG, real-time systems)
+- 🧠 Built AI SaaS platforms & scalable backend systems with <50ms latency apps
+- ☁️ Cloud & DevOps: AWS, Docker, CI/CD, distributed systems
+- 🏆 Certified in GitLab CI, Docker & Google Cloud (GenAI + Cloud APIs)
 
 
 <br>
