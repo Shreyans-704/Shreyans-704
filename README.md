@@ -143,8 +143,7 @@ Portfolio website : - https://portfolio-website-chi-five-48.vercel.app/
 </div>
 
 <br>
-## My Github Contribution Graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyans-704&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+
 
 ## 📊 My GitHub Stats
 
