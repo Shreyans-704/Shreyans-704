@@ -176,5 +176,5 @@
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shreyans-704&icon=5&color=8" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Shreyans-704&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
