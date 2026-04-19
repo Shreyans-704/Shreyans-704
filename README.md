@@ -156,13 +156,17 @@ Portfolio website : - https://portfolio-website-chi-five-48.vercel.app/
 
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyans-704&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
 
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Shreyans-704&icon=5&color=8" alt="Visitor Count">
