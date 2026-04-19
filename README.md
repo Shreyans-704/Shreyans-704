@@ -1,19 +1,26 @@
+<div align="center">
 
-# Hi, I'm Shreyans Jaiswal 
-
-I'm a Pre-final year IT student at **NIT Jalandhar** with a passion for building robust and scalable systems. While I am currently pivoting my career towards Cloud Computing and DevOps, focusing on technologies like AWS, Docker, and Kubernetes.
-
-My goal is to design, build, and maintain efficient, automated infrastructure while continuously learning and solving real-world problems. I believe in clean code, practical engineering, and smart automation. I am actively looking for tech internships for the year 2026.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Shreyans%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br>
 
-- 🎓 B.Tech IT @ NIT Jalandhar (2027)
-- 🚀 Full-Stack & AI Developer (MERN, FastAPI, RAG, real-time systems)
-- 🧠 Built AI SaaS platforms & scalable backend systems with <50ms latency apps
-- ☁️ Cloud & DevOps: AWS, Docker, CI/CD, distributed systems
-- 🏆 Certified in GitLab CI, Docker & Google Cloud (GenAI + Cloud APIs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Backend+%7C+Real-Time+Systems;Cloud+%7C+DevOps+%7C+Distributed+Systems;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+AWS;Building+scalable+AI+systems+%26+infra)](https://git.io/typing-svg)
 
-Portfolio website : - https://portfolio-website-chi-five-48.vercel.app/
+</div>
+
+---
+
+<div align="center">
+
+> 🚀 Pre-final year IT student at **NIT Jalandhar**  
+> ⚡ Building **AI-powered backend systems & scalable cloud infrastructure**  
+> 🧠 Developed **low-latency (<50ms) AI SaaS & real-time systems**  
+> ☁️ Focused on **AWS, Docker, Kubernetes, CI/CD & distributed systems**  
+> 🏆 Certified in **GitLab CI, Docker & Google Cloud (GenAI + APIs)**  
+
+🔗 **Portfolio:** https://portfolio-website-chi-five-48.vercel.app/
+
+</div>
 
 <br>
 
