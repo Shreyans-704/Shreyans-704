@@ -1,180 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Shreyans%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- ① HEADER BANNER — clean gradient, no cheesy waving animation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,60:161b22,100:0d1117&height=120&section=header&text=Shreyans%20Jaiswal&fontSize=48&fontColor=58a6ff&descSize=16&descAlignY=85&descColor=8b949e" width="100%"/>
+</p>
+
+<!-- ② TYPING HEADLINE — one sharp line, not four rotating buzzwords -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+backends+%26+real-time+systems+that+actually+ship.)](https://git.io/typing-svg)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%7C+Backend+%7C+Real-Time+Systems;Cloud+%7C+DevOps+%7C+Distributed+Systems;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+AWS;Building+scalable+AI+systems+%26+infra)](https://git.io/typing-svg)
+<!-- ③ PORTFOLIO LINK — first thing, impossible to miss -->
+### 🔗 [portfolio-website-chi-five-48.vercel.app](https://portfolio-website-chi-five-48.vercel.app/) &nbsp;·&nbsp; [shreyansj.it.23@nitj.ac.in](mailto:shreyansj.it.23@nitj.ac.in)
+
+<!-- ④ QUICK-SCAN BADGES — role, school, status -->
+![NIT Jalandhar](https://img.shields.io/badge/NIT%20Jalandhar-B.Tech%20IT%20%E2%80%9827-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SWE%20%2F%20AI%20Internship%20Summer%202026-0d1117?style=flat-square&labelColor=238636&color=161b22)
+![Intern @ EIL](https://img.shields.io/badge/Intern-Engineers%20India%20Limited-0d1117?style=flat-square&labelColor=6e40c9&color=161b22)
+![Intern @ Conscendo](https://img.shields.io/badge/Intern-Conscendo%20Technologies%20(Upcoming)-0d1117?style=flat-square&labelColor=6e40c9&color=161b22)
 
 </div>
 
 ---
 
+Pre-final year IT student at **NIT Jalandhar** building AI-powered backends, real-time systems, and cloud infrastructure that ships to real users. I've built SaaS platforms serving 100+ users, a collaborative IDE with sub-50ms sync latency, and self-healing cloud infra with automated recovery — not side projects, live products.
+
+---
+
+## 🛠️ Stack
+
+<!-- ⑤ SKILL ICONS — cleaner and more visual than shields alone -->
 <div align="center">
 
-> 🚀 Pre-final year IT student at **NIT Jalandhar**  
-> ⚡ Building **AI-powered backend systems & scalable cloud infrastructure**  
-> 🧠 Developed **low-latency (<50ms) AI SaaS & real-time systems**  
-> ☁️ Focused on **AWS, Docker, Kubernetes, CI/CD & distributed systems**  
-> 🏆 Certified in **GitLab CI, Docker & Google Cloud (GenAI + APIs)**  
-
-🔗 **Portfolio:** https://portfolio-website-chi-five-48.vercel.app/
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,fastapi,nodejs,react,docker,aws,redis,postgres,github,linux,figma&perline=6)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-## 🚀 What I'm Focusing On
-1.  **Cloud & DevOps:** Deepening my expertise in AWS services and implementing CI/CD pipelines.
-2.  **Containerization:** Gaining hands-on experience with Docker and Kubernetes through practical projects.
-3.  **Full-Stack Development:** Enhancing my skills in the MERN stack to build end-to-end applications.
-4.  **Problem Solving:** Sharpening my DSA skills on platforms like LeetCode and HackerRank.
+<!-- Shields for tools that skillicons doesn't cover -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</div>
 
-<br>
+---
 
-## 🛠️ My Tech Stack
+## 🚀 Projects
+
+<!-- ⑥ PROJECT CARDS — HTML table for side-by-side layout on wide screens -->
 
 <table>
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </td>
-  </tr>
+### [⚡ Live-CODE-X](https://live-code-x.netlify.app/)
+Real-time collaborative IDE — **<50ms sync latency** for 20+ simultaneous users via WebSockets & Socket.IO. Integrated Judge0 API for multi-language in-browser execution. 85% Jest coverage on all core event handlers.
 
-  <tr>
-    <td align="center"><strong>Backend & APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-    </td>
-  </tr>
+`WebSockets` `Socket.IO` `Judge0` `Jest`
 
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
-    </td>
-  </tr>
+[🔗 Live](https://live-code-x.netlify.app/) · [📁 Repo](https://github.com/Shreyans-704/LIVE-CODE-X)
 
-  <tr>
-    <td align="center"><strong>AI / ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/MobileNetV3-FF6F00?style=for-the-badge"/>
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top">
 
-  <tr>
-    <td align="center"><strong>DevOps & Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-    </td>
-  </tr>
+### [🎬 Narrately](https://narrately.in)
+AI SaaS video platform — Gemini API script generation, **Redis async queues** (40% faster rendering), AWS S3 media storage. 100+ active users at <3s end-to-end latency.
 
-  <tr>
-    <td align="center"><strong>Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-    </td>
-  </tr>
+`React` `Node.js` `Gemini API` `Redis` `AWS S3`
 
-  <tr>
-    <td align="center"><strong>Design</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
-    </td>
-  </tr>
+[🔗 Live](https://narrately.in) · [📁 Repo](https://github.com/Shreyans-704/Narrately-AI-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🔒 AI Security Scanner](https://ai-security-scanner-taupe.vercel.app)
+FastAPI code vulnerability scanner — detects 7+ patterns (eval injection, hardcoded secrets, XSS) via a rule-based engine, then uses Gemini API to generate plain-English fix suggestions.
+
+`FastAPI` `Gemini API` `Python`
+
+[🔗 Live](https://ai-security-scanner-taupe.vercel.app) · [📁 Repo](https://github.com/Shreyans-704/AI-Security-Scanner)
+
+</td>
+<td width="50%" valign="top">
+
+### [🏗️ Self-Healing Infrastructure](https://github.com/Shreyans-704/Self-Healing-Web-App-Infrastructure)
+Production-grade infra that **automatically recovers from crashes** using Docker restart policies, Prometheus metrics, and Grafana dashboards. Failure scenarios simulated and validated through live system analysis.
+
+`Docker` `Prometheus` `Grafana` `Linux`
+
+[📁 Repo](https://github.com/Shreyans-704/Self-Healing-Web-App-Infrastructure)
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-## 🌐 Let's Connect
+## ⚡ What I'm Working On
 
+Building AI-powered backends and real-time systems (FastAPI, Node.js, WebSockets) with a focus on performance and reliability. Experienced with Docker deployments, Redis async pipelines, and monitoring using Prometheus & Grafana. Currently improving RAG systems and scaling applications toward production-grade infrastructure.
+
+---
+
+## 📊 GitHub Stats
+
+<!-- ⑦ STATS WIDGETS — all themed consistently, compact layout -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyans-jaiswal-894160294/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shreyans704)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyans.704/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StreetAdventurous214/)
-<br>
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/shreyans_704/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shreyansj_it_23)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-FF6D00?logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/GoDhAcKeR)
-[![Google Cloud Profile](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/590d51e9-ac1d-43eb-8099-d97fbfb9e12f)
-[![LearnWeb3 Profile](https://img.shields.io/badge/LearnWeb3-Profile-6C47FF?logo=ethereum&logoColor=white)](https://learnweb3.io/u/Cryptokiddo/)
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shreyans-704&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&hide=prs"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans-704&theme=github_dark&hide_border=true&layout=compact&langs_count=6"/>
 
 </div>
 
-<br>
-
-
-## 📊 My GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Shreyans-704&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyans-704&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans-704&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=Shreyans-704&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ⑧ STREAK STATS — shows consistency over time -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyans-704&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
+</div>
+
+---
+
+## 🏆 Trophies
+
+<!-- ⑨ PROFILE TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyans-704&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
+<!-- ⑩ ACTIVITY GRAPH — dark themed, visually clean -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyans-704&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<!-- ⑪ CONTRIBUTION SNAKE —-->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shreyans-704/Shreyans-704/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyans-704&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+<a href="https://linkedin.com/in/shreyans-jaiswal-894160294">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://leetcode.com/u/shreyans_704/">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/590d51e9-ac1d-43eb-8099-d97fbfb9e12f">
+  <img src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
+</a>
+
+<a href="https://x.com/Shreyans704">
+  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyans-704&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shreyans-704&label=Profile%20Views&color=1f6feb&style=flat-square" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=footer" width="100%"/>
