@@ -31,22 +31,25 @@ Pre-final year IT student at **NIT Jalandhar** building AI-powered backends, rea
 
 ## 🛠️ Stack
 
-<!-- ⑤ SKILL ICONS — cleaner and more visual than shields alone -->
+<!-- ⑤ SKILL ICONS — real, resume-aligned, no fluff -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,fastapi,nodejs,react,docker,aws,redis,postgres,github,linux,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,docker,aws,gcp,redis,postgres,mongodb,git,github,gitlab,linux,nginx&perline=7)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-<!-- Shields for tools that skillicons doesn't cover -->
+<!-- Tools not available on skillicons -->
 <div align="center">
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A0FC8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </div>
 
 ---
