@@ -13,7 +13,7 @@
 <br>
 
 <!-- ③ PORTFOLIO LINK — first thing, impossible to miss -->
-### 🔗 [portfolio-website-chi-five-48.vercel.app](https://portfolio-website-chi-five-48.vercel.app/) &nbsp;·&nbsp; [shreyansj.it.23@nitj.ac.in](mailto:shreyansj.it.23@nitj.ac.in)
+### 🔗 [portfolio-website-chi-five-48.vercel.app](https://portfolio-website-chi-five-48.vercel.app/) &nbsp;·&nbsp; [shreyans.jaiswal704@gmail.com](mailto:shreyans.jaiswal704@gmail.com)
 
 <!-- ④ QUICK-SCAN BADGES — role, school, status -->
 ![NIT Jalandhar](https://img.shields.io/badge/NIT%20Jalandhar-B.Tech%20IT%20%E2%80%9827-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
