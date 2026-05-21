@@ -113,28 +113,21 @@ Building AI-powered backends and real-time systems (FastAPI, Node.js, WebSockets
 
 ---
 
+<!-- ⑦ STATS WIDGETS — all themed consistently, compact layout -->
+
 ## 📊 GitHub Stats
 
-<!-- ⑦ STATS WIDGETS — all themed consistently, compact layout -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shreyans-704&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shreyans-704&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans-704&theme=github_dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyans-704&theme=github_dark&hide_border=true&layout=compact"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shreyans-704&theme=github-dark-blue&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Shreyans-704&theme=github-dark-blue&hide_border=true"/>
 
 </div>
-
-<!-- ⑧ STREAK STATS — shows consistency over time -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyans-704&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
 ---
 
 ## 🏆 Trophies
