@@ -18,8 +18,7 @@
 <!-- ④ QUICK-SCAN BADGES — role, school, status -->
 ![NIT Jalandhar](https://img.shields.io/badge/NIT%20Jalandhar-B.Tech%20IT%20%E2%80%9827-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SWE%20%2F%20AI%20Internship%20Summer%202026-0d1117?style=flat-square&labelColor=238636&color=161b22)
-![Intern @ EIL](https://img.shields.io/badge/Intern-Engineers%20India%20Limited-0d1117?style=flat-square&labelColor=6e40c9&color=161b22)
-![Intern @ Conscendo](https://img.shields.io/badge/Intern-Conscendo%20Technologies%20(Upcoming)-0d1117?style=flat-square&labelColor=6e40c9&color=161b22)
+
 
 </div>
 
@@ -29,30 +28,149 @@ Pre-final year IT student at **NIT Jalandhar** building AI-powered backends, rea
 
 ---
 
-## 🛠️ Stack
+## 💼 Experience
 
-<!-- ⑤ SKILL ICONS — real, resume-aligned, no fluff -->
-<div align="center">
+<table>
+<tr>
+<th></th>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Impact & Stack</th>
+</tr>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,docker,aws,gcp,redis,postgres,mongodb,git,github,gitlab,linux,nginx&perline=7)](https://skillicons.dev)
+<tr>
+<td>🟣</td>
+<td>
+<b>Salesforce Intern</b><br>
+<sub>Jun 2026 – Present</sub>
+</td>
+<td>
+<b>Conscendo Technologies</b><br>
+  (Salesforce Summit Partner Company)<br>
+<sub>Hyderabad, India</sub>
+</td>
+<td>
+• Built CRM workflows using <b>Apex</b> & <b>Lightning</b><br>
+• Automated processes via <b>Flows & Triggers</b><br>
+• Worked on <b>enterprise-scale cloud systems</b>
+</td>
+</tr>
 
-</div>
+<tr>
+<td>🔵</td>
+<td>
+<b>Summer Intern (Trainee) </b><br>
+<sub>Jun – Jul 2025</sub>
+</td>
+<td>
+<b>Engineers India Limited (EIL)</b><br>
+<sub>New Delhi, India</sub>
+</td>
+<td>
+• Developed <b>MERN scholarship platform</b> (500+ users)<br>
+• Implemented <b>JWT Auth & REST APIs</b><br>
+• Achieved <b>70%+ test coverage (Jest)</b>
+</td>
+</tr>
 
-<br>
+</table>
+<hr>
 
-<!-- Tools not available on skillicons -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-5A0FC8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</div>
+## 🏆 Highlights
 
----
+- 🚀 Built and deployed production-grade full-stack & AI systems used by 100–500+ users with strong focus on performance and scalability  
+- ⚡ Experienced in real-time architectures, async pipelines, and system design, achieving sub-50ms sync and optimized processing workflows  
+- 🧠 Specialized in AI engineering (RAG, LLM APIs, FastAPI) with practical implementation of intelligent systems and automation  
+- ☁️ Completed 12+ Google Cloud Skill Badges with hands-on labs in GenAI, Cloud Run, Vision APIs, and cloud-native deployment workflows  
+- 🏗️ Strong foundation in cloud & DevOps (AWS, Docker, CI/CD, monitoring) with hands-on experience in building resilient systems  
+- 🧪 Focused on code quality & reliability, implementing testing pipelines and reducing production bugs through structured validation  
+- 📈 Proven ability to build and ship end-to-end products, from idea → architecture → deployment → real users  
+- 🎓 Completed multiple industry certifications (Google Cloud, Machine Learning, CI/CD, Docker, Cybersecurity) demonstrating continuous learning and practical expertise  
+- 🎯 Actively solving DSA (150+ problems) and strengthening core CS fundamentals (OS, DBMS, CN, System Design)
+
+<hr>
+  
+## 🧠 Technical Summary
+
+- **System Design:** Modular architectures, event-driven workflows, and scalable service design  
+- **API Engineering:** Clean REST APIs, authentication flows, structured error handling, and efficient request lifecycle management  
+- **Data Systems:** Schema design, query optimization, and handling real-time + persistent data across SQL and NoSQL databases  
+- **Async Processing:** Background jobs, queue-based pipelines, and non-blocking workflows for improved throughput  
+- **Security Practices:** Authentication, input validation, and vulnerability-aware backend development  
+- **Testing & Debugging:** Unit/integration testing (Jest), structured logging, and debugging of distributed systems  
+- **Dev Workflow:** Git-based collaboration, CI/CD pipelines, containerized environments, and Agile development  
+- **Adaptability:** Rapidly learning and applying new domains (AI, cloud, distributed systems) in real-world projects
+  
+<hr>
+  
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus)
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI & Systems</b></td>
+<td>
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Infrastructure</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-0d1117?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss)
+
+</td>
+</tr>
+
+</table>
+<hr>
 
 ## 🚀 Projects
 
@@ -128,16 +246,9 @@ Building AI-powered backends and real-time systems (FastAPI, Node.js, WebSockets
 <img width="60%" src="https://streak-stats.demolab.com?user=Shreyans-704&theme=github-dark-blue&hide_border=true"/>
 
 </div>
----
 
-## 🏆 Trophies
+<hr>
 
-<!-- ⑨ PROFILE TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyans-704&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
