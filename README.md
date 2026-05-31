@@ -76,17 +76,19 @@ Final year IT student at **NIT Jalandhar** building AI-powered backends, real-ti
 </table>
 <hr>
 
-## 🏆 Highlights
+## 🚀 Highlights
 
-- 🚀 Built and deployed production-grade full-stack & AI systems used by 100–500+ users with strong focus on performance and scalability  
-- ⚡ Experienced in real-time architectures, async pipelines, and system design, achieving sub-50ms sync and optimized processing workflows  
-- 🧠 Specialized in AI engineering (RAG, LLM APIs, FastAPI) with practical implementation of intelligent systems and automation  
-- ☁️ Completed 12+ Google Cloud Skill Badges with hands-on labs in GenAI, Cloud Run, Vision APIs, and cloud-native deployment workflows  
-- 🏗️ Strong foundation in cloud & DevOps (AWS, Docker, CI/CD, monitoring) with hands-on experience in building resilient systems  
-- 🧪 Focused on code quality & reliability, implementing testing pipelines and reducing production bugs through structured validation  
-- 📈 Proven ability to build and ship end-to-end products, from idea → architecture → deployment → real users  
-- 🎓 Completed multiple industry certifications (Google Cloud, Machine Learning, CI/CD, Docker, Cybersecurity) demonstrating continuous learning and practical expertise  
-- 🎯 Actively solving DSA (150+ problems) and strengthening core CS fundamentals (OS, DBMS, CN, System Design)
+| 💡 Area        | ⚡ Summary |
+|---------------|-----------|
+| 🚀 Products   | Built & deployed AI + full-stack systems (100–500+ users) |
+| ⚡ Performance| Real-time architectures, async pipelines (<50ms latency) |
+| 🧠 AI/ML      | RAG, LLM APIs, FastAPI, automation systems |
+| ☁️ Cloud      | 12+ GCP Skill Badges (GenAI, Cloud Run, Vision APIs) |
+| 🛠 DevOps     | AWS, Docker, CI/CD, monitoring |
+| ✅ Quality    | Testing pipelines, reduced production bugs |
+| 📦 Delivery   | End-to-end: idea → deployment → users |
+| 📜 Certs      | GCP, ML, CI/CD, Docker, Cybersecurity |
+| 💻 DSA        | 150+ problems + OS, DBMS, CN fundamentals |
 
 <hr>
   
