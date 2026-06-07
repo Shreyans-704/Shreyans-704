@@ -170,16 +170,14 @@ Final year IT student at **NIT Jalandhar** building AI-powered backends, real-ti
 
 </td>
 </tr>
-
-</table>
-<hr>
+<table>
+<tr>
 
 ## 🚀 Projects
 
-<!-- ⑥ PROJECT CARDS — HTML table for side-by-side layout on wide screens -->
-
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### [⚡ Live-CODE-X](https://live-code-x.netlify.app/)
@@ -190,6 +188,7 @@ Real-time collaborative IDE — **<50ms sync latency** for 20+ simultaneous user
 [🔗 Live](https://live-code-x.netlify.app/) · [📁 Repo](https://github.com/Shreyans-704/LIVE-CODE-X)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [🎬 Narrately](https://narrately.in)
@@ -200,18 +199,22 @@ AI SaaS video platform — Gemini API script generation, **Redis async queues** 
 [🔗 Live](https://narrately.in) · [📁 Repo](https://github.com/Shreyans-704/Narrately-AI-)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### [🔒 AI Security Scanner](https://ai-security-scanner-taupe.vercel.app)
-FastAPI code vulnerability scanner — detects 7+ patterns (eval injection, hardcoded secrets, XSS) via a rule-based engine, then uses Gemini API to generate plain-English fix suggestions.
+### [📡 Decentralized LAN File Sharing](https://github.com/Shreyans-704/decentralized-lan-file-sharing)
+High-performance peer-to-peer file transfer system — custom TCP chunked protocol (~88 MB/s throughput), UDP broadcast-based peer discovery, fault-tolerant resume via chunk tracking, and SHA-256 end-to-end integrity verification.
 
-`FastAPI` `Gemini API` `Python`
+`C++` `TCP/IP` `UDP` `Socket Programming` `SHA-256`
 
-[🔗 Live](https://ai-security-scanner-taupe.vercel.app) · [📁 Repo](https://github.com/Shreyans-704/AI-Security-Scanner)
+[📁 Repo](https://github.com/Shreyans-704/decentralized-lan-file-sharing)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [🏗️ Self-Healing Infrastructure](https://github.com/Shreyans-704/Self-Healing-Web-App-Infrastructure)
@@ -222,10 +225,13 @@ Production-grade infra that **automatically recovers from crashes** using Docker
 [📁 Repo](https://github.com/Shreyans-704/Self-Healing-Web-App-Infrastructure)
 
 </td>
+
 </tr>
 </table>
 
----
+
+
+
 
 ## ⚡ What I'm Working On
 
