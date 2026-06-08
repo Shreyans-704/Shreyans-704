@@ -234,8 +234,7 @@ Production-grade infra that **automatically recovers from crashes** using Docker
 
 
 ## ⚡ What I'm Working On
-
-Building AI-powered backends and real-time systems (FastAPI, Node.js, WebSockets) with a focus on performance and reliability. Experienced with Docker deployments, Redis async pipelines, and monitoring using Prometheus & Grafana. Currently improving RAG systems and scaling applications toward production-grade infrastructure.
+Building high-performance distributed systems and network applications in C++, focusing on TCP/UDP socket programming, custom protocol design, and fault-tolerant data transfer. Currently developing decentralized file transfer systems with chunked streaming, resume mechanisms, and SHA-256 integrity verification, while optimizing for throughput and reliability over LAN environments.
 
 ---
 
