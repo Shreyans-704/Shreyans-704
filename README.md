@@ -42,7 +42,7 @@ Final year IT student at **NIT Jalandhar** building AI-powered backends, real-ti
 <td>🟣</td>
 <td>
 <b>Salesforce Intern</b><br>
-<sub>Jun 2026 – Present</sub>
+<sub>Jun – Aug (2026)</sub>
 </td>
 <td>
 <b>Conscendo Technologies</b><br>
@@ -60,7 +60,7 @@ Final year IT student at **NIT Jalandhar** building AI-powered backends, real-ti
 <td>🔵</td>
 <td>
 <b>Summer Intern (Trainee) </b><br>
-<sub>Jun – Jul 2025</sub>
+<sub>Jun – Jul (2025)</sub>
 </td>
 <td>
 <b>Engineers India Limited (EIL)</b><br>
