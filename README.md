@@ -24,7 +24,9 @@
 
 ---
 
-Final year IT student at **NIT Jalandhar** building AI-powered backends, real-time systems, and cloud infrastructure that ships to real users. I've built SaaS platforms serving 100+ users, a collaborative IDE with sub-50ms sync latency, and self-healing cloud infra with automated recovery — not side projects, live products.
+Final-year IT student at NIT Jalandhar focused on backend systems, real-time collaboration, and cloud infrastructure.
+
+Experience building production SaaS, low-latency systems (<50ms), and automated deployment pipelines.
 
 ---
 
@@ -88,7 +90,7 @@ Final year IT student at **NIT Jalandhar** building AI-powered backends, real-ti
 | ✅ Quality    | Testing pipelines, reduced production bugs |
 | 📦 Delivery   | End-to-end: idea → deployment → users |
 | 📜 Certs      | GCP, ML, CI/CD, Docker, Cybersecurity |
-| 💻 DSA        | 150+ problems + OS, DBMS, CN fundamentals |
+| 💻 DSA        | 200+ problems + OS, DBMS, CN fundamentals |
 
 <hr>
   
