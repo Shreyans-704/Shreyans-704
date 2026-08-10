@@ -43,7 +43,7 @@ Experience building production SaaS, low-latency systems (<50ms), and automated 
 <tr>
 <td>🟣</td>
 <td>
-<b>Salesforce Intern</b><br>
+<b>Salesforce Developer Intern</b><br>
 <sub>Jun – Aug (2026)</sub>
 </td>
 <td>
@@ -52,16 +52,17 @@ Experience building production SaaS, low-latency systems (<50ms), and automated 
 <sub>Hyderabad, India</sub>
 </td>
 <td>
-• Built CRM workflows using <b>Apex</b> & <b>Lightning</b><br>
-• Automated processes via <b>Flows & Triggers</b><br>
-• Worked on <b>enterprise-scale cloud systems</b>
+• Built 25+ CRM automation workflows using <b>Apex</b> & <b>Lightning</b><br>
+• Automated lead/case lifecycles via <b>Flows & Triggers</b> (~20% effort reduction)<br>
+• Developed an <b>AI-powered Flow Generator</b> (LLM → Apex → Flow XML)<br>
+• Worked with <b>Salesforce Data Cloud</b> for identity resolution & segmentation
 </td>
 </tr>
 
 <tr>
 <td>🔵</td>
 <td>
-<b>Summer Intern (Trainee) </b><br>
+<b>Software Developer Intern </b><br>
 <sub>Jun – Jul (2025)</sub>
 </td>
 <td>
@@ -69,9 +70,10 @@ Experience building production SaaS, low-latency systems (<50ms), and automated 
 <sub>New Delhi, India</sub>
 </td>
 <td>
-• Developed <b>MERN scholarship platform</b> (500+ users)<br>
-• Implemented <b>JWT Auth & REST APIs</b><br>
-• Achieved <b>70%+ test coverage (Jest)</b>
+• Built & deployed a <b>MERN-based scholarship platform</b> serving 500+ users<br>
+• Designed backend with <b>JWT auth</b> & scalable <b>REST APIs</b><br>
+• Implemented <b>Jest test suites</b> achieving 70%+ coverage<br>
+• Streamlined application workflows (verification, role-based access, validation)
 </td>
 </tr>
 
