@@ -248,13 +248,11 @@ Building high-performance distributed systems and network applications in C++, f
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shreyans-704&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Shreyans-704&theme=github_dark&hide_border=true&show_icons=true"/>
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyans-704&theme=github_dark&hide_border=true&layout=compact"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreyans-704&theme=github_dark&hide_border=true&layout=compact"/>
 
 <br><br>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Shreyans-704&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
