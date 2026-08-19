@@ -24,9 +24,9 @@
 
 ---
 
-Final-year IT student at NIT Jalandhar focused on backend systems, real-time collaboration, and cloud infrastructure.
+Final-year IT student at NIT Jalandhar, open to **Backend, DevOps, and AI/ML roles**.
 
-Experience building production SaaS, low-latency systems (<50ms), and automated deployment pipelines.
+Building production-ready applications, cloud infrastructure, automated deployment pipelines, and end-to-end ML systems.
 
 ---
 
@@ -92,7 +92,7 @@ Experience building production SaaS, low-latency systems (<50ms), and automated 
 | ✅ Quality    | Testing pipelines, reduced production bugs |
 | 📦 Delivery   | End-to-end: idea → deployment → users |
 | 📜 Certs      | GCP, ML, CI/CD, Docker, Cybersecurity |
-| 💻 DSA        | 200+ problems + OS, DBMS, CN fundamentals |
+| 💻 DSA        | 250+ problems + OS, DBMS, CN fundamentals |
 
 <hr>
   
@@ -288,7 +288,7 @@ Top <b>11.3%</b>
 Earned <b>30+ Trailhead Badges</b> across Salesforce development, automation, and Data Cloud; achieved the <b>Explorer</b> rank.
 </td> 
 <td> 
-<b>30+ badges · Explorer</b>
+<b>30+ badges · Mountaineer</b>
 </td> 
 </tr>
  
