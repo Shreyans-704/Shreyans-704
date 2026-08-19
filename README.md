@@ -233,7 +233,76 @@ Production-grade infra that **automatically recovers from crashes** using Docker
 </tr>
 </table>
 
+## 🏆 Achievements
+ 
+<table> 
+<tr> 
+<th>Achievement</th> 
+<th>Recognition</th> 
+<th>Selection / Scale</th> 
+</tr> 
+ 
+<tr> 
+<td><b>Amazon ML Summer School 2026</b></td> 
+<td> 
+<b>Completed</b> Amazon's selective ML program covering machine learning concepts and applications. 
+</td> 
+<td> 
+<b>134,421 registered → 31,821 shortlisted → 3,000 selected</b> 
+</td> 
+</tr> 
+ 
+<tr> 
+<td><b>Flipkart GRID 8.0</b></td> 
+<td> 
+<b>Semifinalist</b> in Flipkart's national-level technology challenge. 
+</td> 
+<td> 
+National-level competition
+</td> 
+</tr> 
+ 
+<tr> 
+<td><b>Axis Bank MOVES 2026</b></td> 
+<td> 
+Advanced to <b>Round 3</b> of <i>The Axis Banker</i> simulation; developed and pitched the <b>Axis Resilience Operating System (AROS)</b>.
+</td> 
+<td> 
+Top <b>11.3%</b>
+</td> 
+</tr
+ 
+<tr> 
+<td><b>McKinsey Career Forward Programme</b></td> 
+<td> 
+<b>Completed</b> a structured professional-development program focused on career readiness and professional skills. 
+</td> 
+<td> 
+220K+ learners completed globally
+</td> 
+</tr> 
 
+<tr> 
+<td><b>Salesforce Trailhead</b></td> 
+<td> 
+Earned <b>30+ Trailhead Badges</b> across Salesforce development, automation, and Data Cloud; achieved the <b>Explorer</b> rank.
+</td> 
+<td> 
+<b>30+ badges · Explorer</b>
+</td> 
+</tr>
+ 
+<tr> 
+<td><b>Google Cloud Skill Boost</b></td> 
+<td> 
+Earned <b>12+ Skill Badges</b> across GenAI, Cloud Run, Vision APIs, and other Google Cloud technologies. 
+</td> 
+<td> 
+<b>Top 10 to complete the challenge in college</b>
+</td> 
+</tr> 
+ 
+</table>
 
 
 
