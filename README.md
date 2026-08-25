@@ -17,8 +17,7 @@
 
 <!-- ④ QUICK-SCAN BADGES — role, school, status -->
 ![NIT Jalandhar](https://img.shields.io/badge/NIT%20Jalandhar-B.Tech%20IT%20%E2%80%9827-0d1117?style=flat-square&labelColor=1f6feb&color=161b22)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SWE%20%2F%20AI%20Internship%20Summer%202026-0d1117?style=flat-square&labelColor=238636&color=161b22)
-
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20AI%2FML%20%7C%20DevOps-0d1117?style=flat-square&labelColor=238636&color=161b22)
 
 </div>
 
