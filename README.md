@@ -91,7 +91,7 @@ Building production-ready applications, cloud infrastructure, automated deployme
 | ✅ Quality    | Testing pipelines, reduced production bugs |
 | 📦 Delivery   | End-to-end: idea → deployment → users |
 | 📜 Certs      | GCP, ML, CI/CD, Docker, Cybersecurity |
-| 💻 DSA        | 250+ problems + OS, DBMS, CN fundamentals |
+| 💻 DSA        | 300+ problems + OS, DBMS, CN fundamentals |
 
 <hr>
   
