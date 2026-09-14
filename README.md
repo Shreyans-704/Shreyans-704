@@ -326,16 +326,6 @@ Building high-performance distributed systems and network applications in C++, f
 
 <hr>
 
-
-## 📈 Contribution Graph
-
-<!-- ⑩ ACTIVITY GRAPH — dark themed, visually clean -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyans-704&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
 <!-- ⑪ CONTRIBUTION SNAKE —-->
 ## 🐍 Contribution Snake
 
