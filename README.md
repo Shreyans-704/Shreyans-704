@@ -95,18 +95,6 @@ Building production-ready applications, cloud infrastructure, automated deployme
 
 <hr>
   
-## 🧠 Technical Summary
-
-- **System Design:** Modular architectures, event-driven workflows, and scalable service design  
-- **API Engineering:** Clean REST APIs, authentication flows, structured error handling, and efficient request lifecycle management  
-- **Data Systems:** Schema design, query optimization, and handling real-time + persistent data across SQL and NoSQL databases  
-- **Async Processing:** Background jobs, queue-based pipelines, and non-blocking workflows for improved throughput  
-- **Security Practices:** Authentication, input validation, and vulnerability-aware backend development  
-- **Testing & Debugging:** Unit/integration testing (Jest), structured logging, and debugging of distributed systems  
-- **Dev Workflow:** Git-based collaboration, CI/CD pipelines, containerized environments, and Agile development  
-- **Adaptability:** Rapidly learning and applying new domains (AI, cloud, distributed systems) in real-world projects
-  
-<hr>
   
 ## 🛠️ Tech Stack
 
@@ -231,6 +219,20 @@ Production-grade infra that **automatically recovers from crashes** using Docker
 
 </tr>
 </table>
+
+
+## 🌍 Open Source & Engineering Contributions
+
+Contributing beyond personal projects through open-source projects and real-world engineering work.
+
+| Organization | Contribution | Status |
+|---|---|---|
+| 🦊 **[Mozilla Firefox iOS](https://github.com/mozilla-mobile/firefox-ios/pull/35562)**   |Fix : Firefox briefly shows previous session before opening copied link from widget | ✅ Merged |
+| 🧩 **[Unlayer — YC S22](https://github.com/unlayer/elements/pull/55)** | Contributed a code improvement to Unlayer's open-source Elements project. | ✅ Merged |
+| ☁️ **[Conscendo Technologies](https://github.com/Conscendotechnologies/Siid-Code/pull/187)**| Fix: restore deleteMessageConfirm and editMessageConfirm message handlers | ✅ Merged |
+
+**3 contributions successfully merged into external codebases.**
+
 
 ## 🏆 Achievements
  
