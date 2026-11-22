@@ -161,8 +161,7 @@ Building production-ready applications, cloud infrastructure, automated deployme
 
 </td>
 </tr>
-<table>
-<tr>
+</table>
 
 ## 🚀 Projects
 
@@ -271,7 +270,7 @@ Advanced to <b>Round 3</b> of <i>The Axis Banker</i> simulation; developed and p
 <td> 
 Top <b>11.3%</b>
 </td> 
-</tr
+</tr>
  
 <tr> 
 <td><b>McKinsey Career Forward Programme</b></td> 
@@ -328,12 +327,16 @@ Building high-performance distributed systems and network applications in C++, f
 
 <hr>
 
-<!-- ⑪ CONTRIBUTION SNAKE —-->
-## 🐍 Contribution Snake
+<!-- ⑪ 3D CONTRIBUTION CITY — generated daily by .github/workflows/profile-3d.yml -->
+## 🏙️ Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shreyans-704/Shreyans-704/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
 </div>
+
+<!-- To use the animated green version instead, swap the line above for:
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+-->
 
 ---
 
