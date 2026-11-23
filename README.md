@@ -344,7 +344,7 @@ Building high-performance distributed systems and network applications in C++, f
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shreyans-jaiswal-894160294">
+<a href="https://www.linkedin.com/in/shreyans-jaiswal/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
