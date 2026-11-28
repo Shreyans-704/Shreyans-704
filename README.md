@@ -77,24 +77,7 @@ Building production-ready applications, cloud infrastructure, automated deployme
 </tr>
 
 </table>
-<hr>
-
-## 🚀 Highlights
-
-| 💡 Area        | ⚡ Summary |
-|---------------|-----------|
-| 🚀 Products   | Built & deployed AI + full-stack systems (100–500+ users) |
-| ⚡ Performance| Real-time architectures, async pipelines (<50ms latency) |
-| 🧠 AI/ML      | RAG, LLM APIs, FastAPI, automation systems |
-| ☁️ Cloud      | 12+ GCP Skill Badges (GenAI, Cloud Run, Vision APIs) |
-| 🛠 DevOps     | AWS, Docker, CI/CD, monitoring |
-| ✅ Quality    | Testing pipelines, reduced production bugs |
-| 📦 Delivery   | End-to-end: idea → deployment → users |
-| 📜 Certs      | GCP, ML, CI/CD, Docker, Cybersecurity |
-| 💻 DSA        | 300+ problems + OS, DBMS, CN fundamentals |
-
-<hr>
-  
+<hr>  
   
 ## 🛠️ Tech Stack
 
@@ -217,7 +200,34 @@ Production-grade infra that **automatically recovers from crashes** using Docker
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [📞 Call2Kitchen](https://github.com/Shreyans-704/Call2Kitchen)
+AI-powered restaurant phone ordering — Bolna voice agent takes orders in natural speech, backend **validates menu, prices and availability server-side** before confirming, then persists the order to a real-time kitchen dashboard.
+
+`Bolna` `Express` `TypeScript` `Supabase` `Next.js`
+
+[📁 Repo](https://github.com/Shreyans-704/Call2Kitchen)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [📈 First Step](https://first-step-groww.vercel.app/)
+Independent educational prototype for first-time investors aged 20–26 — **Financial Readiness Assessment, Safe-Start Flex SIP with pause/resume, Growth Simulator and My Plan dashboard**, all simulated locally with no login or backend. Not an official Groww product.
+
+`React 19` `TypeScript` `TanStack Start` `Tailwind CSS`
+
+[🔗 Live](https://first-step-groww.vercel.app/) · [📁 Repo](https://github.com/Shreyans-704/FirstStepGROWW-)
+
+</td>
+
+</tr>
 </table>
+
 
 
 ## 🌍 Open Source & Engineering Contributions
