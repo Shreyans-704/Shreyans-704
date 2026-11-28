@@ -22,10 +22,11 @@
 </div>
 
 ---
+Actively looking for a 6-month full-time Software Engineering internship for Jan-Jun 2027, preferably with a PPO, followed by full-time work from Jun-Jul 2027.
 
-Final-year IT student at NIT Jalandhar, open to **Backend, DevOps, and AI/ML roles**.
+I'm a final-year B.Tech IT student at NIT Jalandhar, graduating in June 2027. I'm interested in backend, full-stack, platform, and AI/ML roles where I can build real products and learn from a strong engineering team.
 
-Building production-ready applications, cloud infrastructure, automated deployment pipelines, and end-to-end ML systems.
+Open to opportunities in India first, and international roles with visa sponsorship. If you're hiring for Jan-Jun 2027, or you're a group of engineers building cool stuff, I'd love to connect.
 
 ---
 
@@ -314,10 +315,6 @@ Earned <b>12+ Skill Badges</b> across GenAI, Cloud Run, Vision APIs, and other G
  
 </table>
 
-
-
-## ⚡ What I'm Working On
-Building high-performance distributed systems and network applications in C++, focusing on TCP/UDP socket programming, custom protocol design, and fault-tolerant data transfer. Currently developing decentralized file transfer systems with chunked streaming, resume mechanisms, and SHA-256 integrity verification, while optimizing for throughput and reliability over LAN environments.
 
 ---
 
